@@ -1,4 +1,4 @@
-# RLhw1
+# reinforcement learning project
 Here's a draft for your README file:
 
 ---
